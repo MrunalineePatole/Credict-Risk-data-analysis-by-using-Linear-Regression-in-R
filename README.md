@@ -1,0 +1,1 @@
+# Credict-Risk-data-analysis-by-using-Linear-Regression-in-R
